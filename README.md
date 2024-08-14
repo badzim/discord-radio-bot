@@ -18,6 +18,8 @@ A Discord bot that plays YouTube playlists as a radio in voice channels.
   ```
 - **Git**: Required to clone the repository.
 
+- **ffmpeg**: Required in the host machine to decode audio format to audio stream
+
 ### Installation
 
 1. **Clone the Repository**:
